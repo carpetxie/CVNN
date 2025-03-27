@@ -1,0 +1,19 @@
+# Virtual Environments
+venv/
+.env/
+
+# Bytecode
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data/model artifacts
+*.ckpt
+*.h5
+*.pt
+*.csv
+
+# macOS
+.DS_Store
